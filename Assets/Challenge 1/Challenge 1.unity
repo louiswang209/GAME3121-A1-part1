@@ -572,6 +572,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   plane: {fileID: 825415029}
   offset: {x: 20, y: 0.5, z: 6}
+--- !u!1 &644002582 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: af29f0ea7e5403641b3b244ede69c374, type: 3}
+  m_PrefabInstance: {fileID: 1239094319}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &644002584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 644002582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3124c7f3debfa14d9c76117dacacbc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &673814960
 GameObject:
   m_ObjectHideFlags: 0
